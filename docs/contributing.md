@@ -24,6 +24,7 @@ All contributors are expected to follow the [Code of Conduct](code-of-conduct.md
 
 **Who can submit?**
 Anyone may submit phenotypic data (images and associated annotations) to the Atlas on behalf of themselves (if they produced the data) and/or the laboratory where the data was generated.
+(see also [Data Governance](data-governance.md))
 
 **Minimum required information:**
 
@@ -35,11 +36,12 @@ Anyone may submit phenotypic data (images and associated annotations) to the Atl
 
 **How to submit**
 
-Data must be submitted through the Submission Platform, which formats submissions according to the ZAPP data model and standards. Coming soon: Bulk submissions via API and spreadsheet upload.
+Data must be submitted through the Submission Platform, which formats submissions according to the ZAPP data model and standards. 
+_Bulk submissions via API and spreadsheet upload will be coming soon._
 
 **Expectations**
 
-All submitted data must follow the data model and standards. The Submission Platform is designed to make this process intuitive, including for contributors who are not standards experts.
+All submitted data must follow the [data model and standards](link). The Submission Platform is designed to make this process intuitive, including for contributors who are not standards experts.
 
 **Attribution**
 
@@ -50,6 +52,8 @@ All submitted data must follow the data model and standards. The Submission Plat
 Each laboratory is responsible for ensuring that its lab is registered with ZFIN. Each individual submitting data is responsible for obtaining an ORCID for Submission Platform authentication (i.e. login). Individual labs may decide whether a submitter is the "data creator" or a "designated representative" (for example, a lab assistant submitting data on behalf of the group). All options listed above will be made accessible through the Submission Platform.
 
 All attribution information is visible on individual records in the Phenotype Atlas.
+(see also [Data Governance](data-governance.md))
+
 
 ### Data Review
 
@@ -125,7 +129,7 @@ Feedback should be submitted as a GitHub issue in the appropriate repository. Th
 
 ## 4. Contributions to Testing and Working Groups
 
-ZAPP periodically forms testing groups and working groups to address specific needs. For more information about working groups, see [Project Structure and Roles](GOVERNANCE.md#26-working-group-members) in the main Governance document.
+ZAPP periodically forms testing groups and working groups to address specific needs. For more information about working groups, see Project Structure and Roles in the [main Governance document](governance.md).
 
 **Who can participate?** Anyone interested in testing features or contributing to a working group. The ZAPP team may also invite individuals based on expertise.
 
@@ -194,7 +198,7 @@ PR authors are expected to:
 ### Review and Discussion Process
 
 - Proposed changes (via GitHub issues or PRs) may be discussed during regular ZAPP team meetings.
-- For relevant changes, a minimum review period of **one week** will be allowed for stakeholder comments before a decision is made, unless urgent action is required.
+- For relevant changes, a minimum review period of **one month** will be allowed for stakeholder comments before a decision is made, unless urgent action is required.
 - After the review period, the ZAPP maintainers will decide whether to merge, request revisions, or close the PR.
 - Meeting discussions related to issues or PRs will be summarized and recorded as comments within the relevant GitHub thread to ensure transparency.
 

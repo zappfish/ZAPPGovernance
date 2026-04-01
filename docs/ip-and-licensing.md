@@ -23,13 +23,9 @@ License information is specified within each repository.
 
 ## 3. Code, Tools, and Documentation
 
-ZAPP software and related tooling are licensed under the **Apache License 2.0**, or another license approved by the Open Source Initiative (OSI), when appropriate.
+ZAPP software, tooling, ontologies, knowledge graphs (KGs), documentation, and related resources are released under open licenses.
 
-## 4. Open Licensing Policy
-
-ZAPP tooling, ontologies, knowledge graphs (KGs), documentation, and related resources are released under open licenses.
-
-- **Software** is licensed under the Apache License 2.0 or another license approved by the Open Source Initiative (OSI).
+- **Software** is licensed under the **Apache License 2.0** or another license approved by the Open Source Initiative (OSI).
 - **Ontologies, schemas, documentation, and other non-software artifacts** are released under an appropriate open license consistent with community standards and funder requirements.
 
 License information is clearly indicated within each repository.

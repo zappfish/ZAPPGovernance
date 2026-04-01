@@ -2,9 +2,9 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](GOVERNANCE.md).*
+> *This is part of the [ZAPP Governance Documents](governance.md).*
 
-This document describes the policies governing data available in the ZAPP Atlas, including images and their associated annotations. Data are submitted by contributors via the Submission Platform (see [Contribution Guidelines](CONTRIBUTING.md) for how to contribute data).
+This document describes the policies governing data available in the ZAPP Atlas, including images and their associated annotations. Data are submitted by contributors via the Submission Platform (see [Contribution Guidelines](contributing.md) for how to contribute data).
 
 ## 1. Commitment to FAIR Principles
 
@@ -14,7 +14,7 @@ To meet these principles, all data must:
 
 - Follow the agreed-upon data model and applicable standards
 - Include clear and traceable provenance information
-- Be openly available under the specified license (CC BY 4.0 — see [Licensing](#7-licensing) below and [IP & Licensing](IP_AND_LICENSING.md))
+- Be openly available under the specified license (CC BY 4.0 — see [Licensing](#7-licensing) below and [IP & Licensing](ip-and-licensing.md))
 - Be structured to support interoperability and reuse
 
 ## 2. Data Acceptance
@@ -103,7 +103,7 @@ All data in the Atlas are distributed under the **Creative Commons Attribution 4
 
 This license permits sharing and reuse of data provided appropriate attribution is given to the original creators and ZAPP.
 
-For the full licensing policy covering all ZAPP resources (data, code, ontologies), see [IP & Licensing](IP_AND_LICENSING.md).
+For the full licensing policy covering all ZAPP resources (data, code, ontologies), see [IP & Licensing](ip-and-licensing.md).
 
 ## 9. Citation Policy
 
@@ -123,4 +123,4 @@ When referencing a specific image or record, cite:
 
 The Atlas provides a "Cite this entry" tool to generate the correct citation format.
 
-For the full citation and publication policy, see [IP & Licensing](IP_AND_LICENSING.md).
+For the full citation and publication policy, see [IP & Licensing](ip-and-licensing.md).

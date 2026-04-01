@@ -1,0 +1,17 @@
+site_name: ZAPP Governance Documents
+site_url: https://zappfish.github.io/ZAPPGovernance/
+site_description: Governance documents for the Zebrafish Toxicology Phenotype Atlas Project (ZAPP)
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+  - Home: index.md
+  - ZAPP Governance: governance.md
+  - Contribution Guidelines: contributing.md
+  - Data Governance: data-governance.md
+  - Code of Conduct: code-of-conduct.md
+  - IP & Licensing: ip-and-licensing.md
+  - Planned Sections: future-sections.md

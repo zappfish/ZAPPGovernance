@@ -2,7 +2,7 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](GOVERNANCE.md).*
+> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 ## 1. Introduction
 
@@ -12,10 +12,10 @@ These documents address:
 
 - Roles and responsibilities
 - Decision-making processes
-- [Contribution guidelines](CONTRIBUTING.md)
-- [Intellectual property, licensing, and publications](IP_AND_LICENSING.md)
-- [Data governance](DATA_GOVERNANCE.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contribution guidelines](contributing.md)
+- [Intellectual property, licensing, and publications](ip-and-licensing.md)
+- [Data governance](data-governance.md)
+- [Code of Conduct](code-of-conduct.md)
 - Communication policies
 
 The Governance Documents are reviewed annually in March, or as needed, and updated accordingly. Each revision is versioned through GitHub PRs to ensure transparency and traceability over time.
@@ -160,8 +160,8 @@ Contributors are individuals who actively contribute to ZAPP through:
 
 **Responsibilities:**
 
-- Following the [Contribution Guidelines](CONTRIBUTING.md)
-- Adhering to the [Code of Conduct](CODE_OF_CONDUCT.md)
+- Following the [Contribution Guidelines](contributing.md)
+- Adhering to the [Code of Conduct](code-of-conduct.md)
 - Providing accurate attribution and metadata
 
 ### 2.8. Community Members
@@ -179,7 +179,7 @@ Community members help shape ZAPP through:
 
 Community members are expected to:
 
-- Adhere to the [Code of Conduct](CODE_OF_CONDUCT.md)
+- Adhere to the [Code of Conduct](code-of-conduct.md)
 - Disclose conflicts of interest when relevant
 
 ## 3. Decision-Making Processes

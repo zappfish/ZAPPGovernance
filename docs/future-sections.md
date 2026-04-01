@@ -2,7 +2,7 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](GOVERNANCE.md).*
+> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 The following governance topics are planned for future development. They are not yet included in the current set of governance documents but are recognized as important areas to address.
 

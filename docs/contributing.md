@@ -2,7 +2,7 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](GOVERNANCE.md).*
+> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 Contributions are welcome throughout the ZAPP project. These contributions can take different forms, including:
 
@@ -16,7 +16,7 @@ The level and type of contribution should reflect each contributor's comfort lev
 
 All contributions to ZAPP are made on a voluntary basis; ZAPP does not provide financial compensation for contributions.
 
-All contributors are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+All contributors are expected to follow the [Code of Conduct](code-of-conduct.md).
 
 ## 1. Contributions to Data
 
@@ -53,7 +53,7 @@ All attribution information is visible on individual records in the Phenotype At
 
 ### Data Review
 
-All submitted data will be accepted into the Atlas provided they follow the required format and pass quality-control checks (see [Data Governance](DATA_GOVERNANCE.md) for details). Community review will provide feedback on how well a phenotype is represented visually in an image.
+All submitted data will be accepted into the Atlas provided they follow the required format and pass quality-control checks (see [Data Governance](data-governance.md) for details). Community review will provide feedback on how well a phenotype is represented visually in an image.
 
 **Who can review?** Anyone in the research community.
 
@@ -61,7 +61,7 @@ All submitted data will be accepted into the Atlas provided they follow the requ
 
 **How review works:** TBD (likely a thumbs-up/down system with optional comments).
 
-**Expectations:** Reviews should be constructive and respectful. All reviewers should follow the ZAPP [Code of Conduct](CODE_OF_CONDUCT.md).
+**Expectations:** Reviews should be constructive and respectful. All reviewers should follow the ZAPP [Code of Conduct](code-of-conduct.md).
 
 **Attribution:** Reviewer ORCID will be associated with aggregate review activity. Individual votes or comments will remain anonymous unless the reviewer explicitly opts in to attribution.
 
@@ -119,7 +119,7 @@ Community feedback is essential for improving ZAPP.
 
 Feedback should be submitted as a GitHub issue in the appropriate repository. The "Contact Us" page on the project website (https://zappfish.org/) and Atlas (coming soon) will automatically create a GitHub issue.
 
-**Expectations:** Requests are reviewed and prioritized by ZAPP maintainers. Issues affecting core functionality are prioritized over feature requests. All requests should follow the ZAPP [Code of Conduct](CODE_OF_CONDUCT.md).
+**Expectations:** Requests are reviewed and prioritized by ZAPP maintainers. Issues affecting core functionality are prioritized over feature requests. All requests should follow the ZAPP [Code of Conduct](code-of-conduct.md).
 
 **Attribution:** GitHub contributors are credited via their GitHub handles, or ORCID when provided. Contributors may be invited as co-authors on ZAPP community publications when appropriate.
 

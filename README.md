@@ -10,7 +10,7 @@ ZAPP is a project funded by the National Institute of Environmental Health Scien
 
 | Document | Description |
 |----------|-------------|
-| [ZAPP Governance](docs/governance.md) | Project structure, roles, decision-making processes, and communication policy |
+| [ZAPP Governance](docs/governance.md) | Project structure, roles, and decision-making processes |
 | [Contribution Guidelines](docs/contributing.md) | How to contribute data, code, standards, and feedback to ZAPP |
 | [Data Governance](docs/data-governance.md) | Data policies including FAIR principles, acceptance, review, provenance, and access |
 | [Code of Conduct](docs/code-of-conduct.md) | Expected behavior and reporting procedures for the ZAPP community |

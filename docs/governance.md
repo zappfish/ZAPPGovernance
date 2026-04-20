@@ -16,8 +16,6 @@ These documents address:
 - [Intellectual property, licensing, and publications](ip-and-licensing.md)
 - [Data governance](data-governance.md)
 - [Code of Conduct](code-of-conduct.md)
-- Communication policies
-
 The Governance Documents are reviewed annually in March, or as needed, and updated accordingly. Each revision is versioned through GitHub PRs to ensure transparency and traceability over time.
 
 ZAPP is a project funded by the National Institute of Environmental Health Sciences (NIEHS). ZAPP's mission is to build a community-driven zebrafish toxicophenotype Atlas supported by standardized data models, ontologies, and annotation tools. These Governance Documents have been developed to support this mission and to meet funder expectations, including commitments to:
@@ -228,25 +226,7 @@ Decisions are made in alignment with:
 
 The MPIs retain responsibility for ensuring that decisions support the long-term health and integrity of the project.
 
-## 4. Communication Policy
-
-This section describes internal and public communication mechanisms used by ZAPP.
-
-### 4.1. Internal Communication
-
-Internal communication channels are used for operational coordination among the ZAPP MPIs, maintainers, and internal advisors. Internal communication channels are maintained by the PM.
-
-**Meeting Documentation**
-
-- Meeting notes are maintained in shared project documents within the official ZAPP project drive.
-- Access is restricted to authorized team members.
-
-**Internal Mailing Lists**
-
-- A maintainers' mailing list is used for technical coordination.
-- A leadership mailing list is used by the MPIs and internal advisors for governance and strategic discussions.
-
-## 5. Amendment Process
+## 4. Amendment Process
 
 These Governance Documents may be amended through the following process:
 

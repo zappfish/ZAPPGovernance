@@ -15,7 +15,7 @@ ZAPP is a project funded by the National Institute of Environmental Health Scien
 | [Data Governance](docs/data-governance.md) | Data policies including FAIR principles, acceptance, review, provenance, and access |
 | [Code of Conduct](docs/code-of-conduct.md) | Expected behavior and reporting procedures for the ZAPP community |
 | [IP & Licensing](docs/ip-and-licensing.md) | Intellectual property, licensing, citation, and publication policies |
-| [Planned Sections](docs/future-sections.md) | Governance topics under development |
+
 
 ## Versioning
 

@@ -2,7 +2,7 @@
 
 This repository contains the governance documents for the **Zebrafish Toxicology Phenotype Atlas Project (ZAPP)** and all repositories within the [zappfish](https://github.com/zappfish) GitHub organization.
 
-**Read the documents on the website: https://zappfish.github.io/ZAPPGovernance/**
+**Read the documents on the website: https://zappfish.org/ZAPPGovernance/**
 
 ZAPP is a project funded by the National Institute of Environmental Health Sciences (NIEHS). ZAPP's mission is to build a community-driven zebrafish toxicophenotype Atlas supported by standardized data models, ontologies, and annotation tools.
 
@@ -10,7 +10,7 @@ ZAPP is a project funded by the National Institute of Environmental Health Scien
 
 | Document | Description |
 |----------|-------------|
-| [ZAPP Governance](docs/governance.md) | Project structure, roles, and decision-making processes |
+| [Project Governance](docs/governance.md) | Project structure, roles, and decision-making processes |
 | [Contribution Guidelines](docs/contributing.md) | How to contribute data, code, standards, and feedback to ZAPP |
 | [Data Governance](docs/data-governance.md) | Data policies including FAIR principles, acceptance, review, provenance, and access |
 | [Code of Conduct](docs/code-of-conduct.md) | Expected behavior and reporting procedures for the ZAPP community |

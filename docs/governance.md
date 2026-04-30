@@ -1,8 +1,7 @@
-# ZAPP Governance
+# Project Governance
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 ## 1. Introduction
 

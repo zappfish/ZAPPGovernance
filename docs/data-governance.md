@@ -2,7 +2,6 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 This document describes the policies governing data available in the ZAPP Atlas, including images and their associated annotations. Data are submitted by contributors via the Submission Platform (see [Contribution Guidelines](contributing.md) for how to contribute data).
 

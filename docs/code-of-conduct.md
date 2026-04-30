@@ -2,7 +2,6 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 ## Purpose
 

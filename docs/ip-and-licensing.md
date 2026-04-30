@@ -2,7 +2,6 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 This document describes licensing policies for ZAPP resources and expectations for citation and publications related to the project.
 

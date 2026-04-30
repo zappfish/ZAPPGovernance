@@ -2,7 +2,6 @@
 
 *Last update: March 2026*
 
-> *This is part of the [ZAPP Governance Documents](governance.md).*
 
 Contributions are welcome throughout the ZAPP project. These contributions can take different forms, including:
 

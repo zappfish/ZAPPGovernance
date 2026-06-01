@@ -163,7 +163,7 @@ Repositories may include:
 
 - Submission platform
 - Atlas
-- Frogpod
+- Frogpot
 - Other ZAPP infrastructure
 
 **How to contribute**

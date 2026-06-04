@@ -2,7 +2,7 @@
 
 These documents establish the governance framework for the **Zebrafish Toxicology Phenotype Atlas Project (ZAPP)** and all repositories within the [zappfish](https://github.com/zappfish) GitHub organization.
 
-ZAPP is a project funded by the National Institute of Environmental Health Sciences (NIEHS). ZAPP's mission is to build a community-driven zebrafish toxicophenotype Atlas supported by standardized data models, ontologies, and annotation tools.
+ZAPP is a project funded by the National Institute of Environmental Health Sciences (NIEHS 1R24ES036130). ZAPP's mission is to build a community-driven zebrafish toxicophenotype Atlas supported by standardized data models, ontologies, and annotation tools.
 
 ## Documents
 
